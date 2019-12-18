@@ -1,0 +1,12 @@
+Network Name: ckt2 
+ JK,RK,EK and reduced A Matrix Parameters 
+number of nodes:
+2;
+number of branches
+2;
+Jk Rk Ek
+10.000000,0.100000,0.000000;
+0.000000,0.100000,0.000000;
+A
+1.000000,1.000000;
+E
